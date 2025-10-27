@@ -121,25 +121,20 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+<img width="1028" height="759" alt="image" src="https://github.com/user-attachments/assets/b72ab91f-8f61-4d04-a1f4-3f36095a98cc" />
 
 ### Confusion Matrix
-Include confusion matrix here
-</br>
-</br>
-</br>
+<img width="860" height="600" alt="image" src="https://github.com/user-attachments/assets/bec3cf28-2384-459a-9419-0ee51e21dcef" />
+
 
 ### Classification Report
-Include Classification Report here
-</br>
-</br>
-</br>
+<img width="669" height="224" alt="image" src="https://github.com/user-attachments/assets/98794bdd-c442-41b7-a268-fbc71ed369ae" />
+
 
 ### New Sample Prediction
-</br>
-</br>
-</br>
+<img width="594" height="399" alt="image" src="https://github.com/user-attachments/assets/f46f8b43-c4cf-47b6-bcf6-77ac551d07c1" />
+
 
 ## RESULT
-</br>
-</br>
-</br>
+Thus, the transfer Learning for classification using VGG-19 architecture has succesfully implemented.
+
